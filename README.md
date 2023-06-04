@@ -19,3 +19,5 @@ pip install matplotlib
 - http://efele.net/maps/tz/world/
 - https://shapely.readthedocs.io/en/stable/installation.html
 - https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.set_geometry.html
+- https://desktop.arcgis.com/fr/arcmap/latest/map/projections/pdf/geographic_coordinate_systems.pdf
+- https://docs.qgis.org/3.28/en/docs/gentle_gis_introduction/coordinate_reference_systems.html

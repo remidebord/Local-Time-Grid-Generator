@@ -14,7 +14,9 @@ if __name__ == "__main__":
   print(polys)
 
   print("Create point...")
-  p = Point(1.4488911764032935, 43.604560049363485)
+  latitude = 43.604560049363485
+  longitude = 1.4488911764032935
+  p = Point(longitude, latitude)
   print(p)
   
   print("Search which polygon contain the point...")
